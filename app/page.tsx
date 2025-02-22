@@ -1,7 +1,5 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
-    <div>Hello World</div>
+    <div>Stream music you love for the world to hear</div>
   );
 }
